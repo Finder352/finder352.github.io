@@ -1,8 +1,8 @@
 <img width="128" src="https://raw.githubusercontent.com/Finder352/finder352.github.io/main/PinkWithFlags.png">
 
-# Welcome
+# Hello
 
-Hello, I go by Finder352 but you can shorten it to "Finder" if you prefer.  My pronouns are she/her and they/them, any of those two will do.
+My name is Primrose, but my screen name is Finder352 (also shortenable to "Finder" if you wish).  My pronouns are she/her and they/them, any of those two will do.
 
 
 ### What I like to do
